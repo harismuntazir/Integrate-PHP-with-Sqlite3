@@ -1,1 +1,3 @@
 # Integrate-PHP-with-Sqlite3
+
+A Simple demonistration of how to integrate php with sqlite3 database and work with its data...
